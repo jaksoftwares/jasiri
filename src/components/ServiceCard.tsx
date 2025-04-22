@@ -1,1 +1,0 @@
-import React from 'react';\n\nconst ServiceCard: React.FC = () => {\n  return (\n    <div className='border p-4'>\n      <h3>Service Title</h3>\n      <p>Service description goes here.</p>\n    </div>\n  );\n};\n\nexport default ServiceCard;
